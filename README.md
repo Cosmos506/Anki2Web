@@ -20,7 +20,6 @@
 - [Dépannage](#dépannage)
 - [Architecture du projet](#architecture-du-projet)
 - [Tests et état du projet](#tests-et-état-du-projet)
-- [Licence et attribution](#licence-et-attribution)
 
 ## Objectif
 
